@@ -1,0 +1,6 @@
+date,home,home_score,away,away_score,total_score,spread,winner,home_win_prob,away_win_prob,home_fair_odds,away_fair_odds,home score actual,away score actual,mov actual,total actual,winner actual
+"Sun, October 27th at 3:30 PM EDT",Indiana Pacers,118,Philadelphia 76ers,116,234,2,Indiana Pacers,54.97,45.03,-122,122,114,118,4,232,Philadelphia 76ers
+"Sun, October 27th at 6:00 PM EDT",Brooklyn Nets,108,Milwaukee Bucks,109,217,1,Milwaukee Bucks,46.49,53.51,115,-115,115,102,13,217,Brooklyn Nets
+"Sun, October 27th at 6:00 PM EDT",Portland Trail Blazers,117,New Orleans Pelicans,113,230,4,Portland Trail Blazers,60.53,39.47,-153,153,125,103,22,228,Portland Trail Blazers
+"Sun, October 27th at 7:00 PM EDT",Oklahoma City Thunder,112,Atlanta Hawks,109,221,3,Oklahoma City Thunder,58.35,41.65,-140,140,128,104,24,232,Oklahoma City Thunder
+"Sun, October 27th at 8:30 PM EDT",Golden State Warriors,113,LA Clippers,112,225,1,Golden State Warriors,52.72,47.28,-111,111,104,112,8,216,LA Clippers

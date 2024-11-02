@@ -1,0 +1,11 @@
+date,home,home_score,away,away_score,total_score,spread,winner,home_win_prob,away_win_prob,home_fair_odds,away_fair_odds,home score actual,away score actual,mov actual,total actual,winner actual
+"Sat, October 26th at 5:00 PM EDT",Denver Nuggets,113,LA Clippers,117,230,4,LA Clippers,39.2,60.8,155,-155,104,109,5,213,LA Clippers
+"Sat, October 26th at 7:00 PM EDT",Charlotte Hornets,105,Miami Heat,112,217,7,Miami Heat,30.29,69.71,230,-230,106,114,8,220,Miami Heat
+"Sat, October 26th at 7:00 PM EDT",Detroit Pistons,107,Boston Celtics,117,224,10,Boston Celtics,24.9,75.1,302,-302,118,124,6,242,Boston Celtics
+"Sat, October 26th at 7:00 PM EDT",Washington Wizards,109,Cleveland Cavaliers,113,222,4,Cleveland Cavaliers,39.42,60.58,154,-154,116,135,19,251,Cleveland Cavaliers
+"Sat, October 26th at 8:00 PM EDT",Chicago Bulls,111,Oklahoma City Thunder,120,231,9,Oklahoma City Thunder,27.18,72.82,268,-268,95,114,19,209,Oklahoma City Thunder
+"Sat, October 26th at 8:00 PM EDT",Memphis Grizzlies,121,Orlando Magic,109,230,12,Memphis Grizzlies,79.38,20.62,-385,385,124,111,13,235,Memphis Grizzlies
+"Sat, October 26th at 8:00 PM EDT",Minnesota Timberwolves,113,Toronto Raptors,108,221,5,Minnesota Timberwolves,64.5,35.5,-182,182,112,101,11,213,Minnesota Timberwolves
+"Sat, October 26th at 8:30 PM EDT",San Antonio Spurs,107,Houston Rockets,111,218,4,Houston Rockets,38.17,61.83,162,-162,109,106,3,215,San Antonio Spurs
+"Sat, October 26th at 10:00 PM EDT",Phoenix Suns,114,Dallas Mavericks,112,226,2,Phoenix Suns,55.36,44.64,-124,124,114,102,12,216,Phoenix Suns
+"Sat, October 26th at 10:30 PM EDT",Los Angeles Lakers,111,Sacramento Kings,113,224,2,Sacramento Kings,44.58,55.42,124,-124,131,127,4,258,Los Angeles Lakers

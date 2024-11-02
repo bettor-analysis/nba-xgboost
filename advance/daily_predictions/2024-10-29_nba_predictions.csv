@@ -1,0 +1,5 @@
+date,home,home_score,away,away_score,total_score,spread,winner,home_win_prob,away_win_prob,home_fair_odds,away_fair_odds
+"Tue, October 29th at 7:30 PM EDT",Brooklyn Nets,106,Denver Nuggets,99,205,7,Brooklyn Nets,69.17,30.83,-224,224
+"Tue, October 29th at 7:30 PM EDT",Minnesota Timberwolves,111,Dallas Mavericks,103,214,8,Minnesota Timberwolves,71,29,-245,245
+"Tue, October 29th at 9:00 PM EDT",Utah Jazz,93,Sacramento Kings,115,208,22,Sacramento Kings,6.06,93.94,1551,-1552
+"Tue, October 29th at 10:00 PM EDT",Golden State Warriors,112,New Orleans Pelicans,118,230,6,New Orleans Pelicans,34.73,65.27,188,-188
