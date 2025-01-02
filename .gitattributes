@@ -1,1 +1,4 @@
-*.R linguist-language=R
+
+*.html linguist-generated=true
+*.Rmd linguist-generated=true
+
